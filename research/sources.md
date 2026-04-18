@@ -6,7 +6,7 @@
 | 2 | Ryan Law | https://linkedin.com/in/ryanlaw | — | SEO systems |
 | 3 | Gael Breton | https://www.linkedin.com/in/gael-breton/?skipRedirect=true | https://www.youtube.com/@AuthorityHacker | AI SEO |
 | 4 | Matt Diggity | https://www.linkedin.com/in/mattdiggityseo/?skipRedirect=true | https://www.youtube.com/@MattDiggity | Programmatic SEO |
-| 5 | Nathan Gotch | — | https://www.youtube.com/@GotchSEO | SEO playbooks |
+| 5 | Nathan Gotch | https://www.linkedin.com/in/nathangotch/ | https://www.youtube.com/@GotchSEO | SEO playbooks |
 | 6 | Dave Gerhardt | https://linkedin.com/in/davegerhardt | — | SaaS growth |
 | 7 | Amanda Natividad | https://linkedin.com/in/amandanat | — | Content strategy |
 | 8 | Tom Hunt | https://linkedin.com/in/tomhuntio | https://www.youtube.com/@TomHunt | SaaS growth |
