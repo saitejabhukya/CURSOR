@@ -2,7 +2,7 @@
 
 | S.No | Name | LinkedIn URL | YT Link | Why I chose them |
 |---|------|--------------|--------|------------------|
-| 1 | Ross Simmonds | https://linkedin.com/in/rosssimmonds | https://www.youtube.com/@RossSimmonds | B2B SaaS SEO |
+| 1 | Ross Simmonds | https://linkedin.com/in/rosssimmonds | — | B2B SaaS SEO |
 | 2 | Ryan Law | https://www.linkedin.com/in/thinkingslow | — | SEO systems |
 | 3 | Gael Breton | https://www.linkedin.com/in/gael-breton | https://www.youtube.com/@AuthorityHacker | AI SEO |
 | 4 | Matt Diggity | https://www.linkedin.com/in/mattdiggityseo | https://www.youtube.com/@MattDiggity | Programmatic SEO |
