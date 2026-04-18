@@ -8,7 +8,7 @@
 | 4 | Matt Diggity | https://www.linkedin.com/in/mattdiggityseo/?skipRedirect=true | https://www.youtube.com/@MattDiggity | Programmatic SEO |
 | 5 | Nathan Gotch | https://www.linkedin.com/in/nathangotch/ || SEO playbooks |
 | 6 | Dave Gerhardt | https://linkedin.com/in/davegerhardt | https://www.youtube.com/@heydavegerhardt | SaaS growth |
-| 7 | Amanda Natividad | https://linkedin.com/in/amandanat | — | Content strategy |
+| 7 | Amanda Natividad | https://linkedin.com/in/amandanat | https://www.youtube.com/@amandanat_ | Content strategy |
 | 8 | Tom Hunt | https://linkedin.com/in/tomhuntio | https://www.youtube.com/@TomHunt | SaaS growth |
 | 9 | Peep Laja | https://linkedin.com/in/peeplaja | — | SaaS messaging |
 |10 | Mark Williams-Cook | https://www.linkedin.com/in/markseo/ | https://www.youtube.com/@Candour | Technical SEO |
