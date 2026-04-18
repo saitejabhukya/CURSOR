@@ -11,4 +11,4 @@
 | 7 | Amanda Natividad | https://linkedin.com/in/amandanat | — | Content strategy |
 | 8 | Tom Hunt | https://linkedin.com/in/tomhuntio | https://www.youtube.com/@TomHuntioChannel | SaaS growth |
 | 9 | Peep Laja | https://linkedin.com/in/peeplaja | — | SaaS messaging |
-|10 | Mark Williams-Cook | https://www.linkedin.com/in/markseo | https://www.youtube.com/@Candour | Technical SEO |
+|10 | Mark Williams-Cook | https://www.linkedin.com/in/markseo | — | Technical SEO |
